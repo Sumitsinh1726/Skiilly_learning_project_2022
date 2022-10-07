@@ -1,0 +1,146 @@
+/* Index page csss Start */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,500&family=Roboto:wght@300;500&display=swap');    
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    color: rgb(4, 4, 4);
+    /* background-color: #212529!important; */
+}
+
+.container{
+    margin-top:10px !important;
+    word-spacing: 2px !important;
+}
+
+.text-box{
+
+    margin-top: 13%;
+    margin-left: 8%;
+    font-size: 27px;
+    letter-spacing: 0.1px;
+    line-height: 56px;
+    margin-bottom: 5%;
+
+}
+
+.text-box h1{
+    font-size: 52px;
+    line-height: 85px;
+    color: #ffff;
+
+}
+
+.text-box a{
+   margin-top: 2px;
+   display: inline-block;
+   border-radius: 6px;    
+   border:2px solid #fff724;
+   font-size: 20px;
+   font-style: bold;
+   color:#fff724 ;
+   text-decoration: none;
+   padding: 8px 25px;
+    
+}
+
+
+.text-box .btn{
+    background: #fff724;
+    color: #000;
+    font-weight: 600;   
+}
+
+
+
+#navbarSupportedContent{
+    background-color: #212529!important;
+}
+
+/* Index page csss End */
+
+.video-background-holder {
+  position: relative;
+  background-color: black;
+  height: calc(100vh - 72px);
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+.video-background-holder video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.video-background-content {
+  position: relative;
+  z-index: 2;
+}
+
+.video-background-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+
+
+
+
+/* Why Chose me seaction  */
+
+.theme-text {
+  color: #474af0;
+}
+
+.card{
+  border: none;
+  outline: none;
+  background-color: #fff724;
+  -webkit-box-shadow: -27px 7px 40px -4px rgba(0,0,0,0.54);
+-moz-box-shadow: -27px 7px 40px -4px rgba(0,0,0,0.54);
+box-shadow: -27px 7px 40px -4px rgba(0,0,0,0.54);
+
+}
+
+.card p{
+  color: gray;
+}
+.circle{
+  height: 70px;
+  width: 70px;
+  background-color: lightgray;
+  color: black;
+  font-size: 30px;
+  border-radius: 50%;
+  padding: 10px;
+  margin-bottom: 25px;
+}
+.card:hover .circle{
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}
