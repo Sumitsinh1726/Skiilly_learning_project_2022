@@ -77,7 +77,7 @@
 
 
 
-<div class="container">
+<!-- <div class="container">
         <h1 class="text-center mt-5 display-3 fw-bold">Why Choose <span class="theme-text">Me ?</span></h1>
         <div class="container py-5">
             <div class="row gy-2 my-3">
@@ -115,7 +115,7 @@
         </div>
 </div>
 
-    
+     -->
 
       
 
