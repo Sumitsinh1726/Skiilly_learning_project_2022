@@ -34,7 +34,7 @@ body{
 .text-box h1{
     font-size: 52px;
     line-height: 85px;
-    color: #ffff;
+    color: rgb(0, 0, 0);
 
 }
 
@@ -66,45 +66,6 @@ body{
 
 /* Index page csss End */
 
-.video-background-holder {
-  position: relative;
-  background-color: black;
-  height: calc(100vh - 72px);
-  min-height: 25rem;
-  width: 100%;
-  overflow: hidden;
-}
-
-.video-background-holder video {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
-  z-index: 0;
-  -ms-transform: translateX(-50%) translateY(-50%);
-  -moz-transform: translateX(-50%) translateY(-50%);
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-}
-
-.video-background-content {
-  position: relative;
-  z-index: 2;
-}
-
-.video-background-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background-color: black;
-  opacity: 0.5;
-  z-index: 1;
-}
 
 
 
@@ -142,3 +103,24 @@ body{
   color: white;
   transition: 0.5s;
 }
+
+.custom-shape-divider-bottom-1666889500 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1666889500 svg {
+  position: relative;
+  display: block;
+  width: calc(146% + 1.3px);
+  height: 124px;
+}
+
+.custom-shape-divider-bottom-1666889500 .shape-fill {
+  fill: #5067CC;
+}
+

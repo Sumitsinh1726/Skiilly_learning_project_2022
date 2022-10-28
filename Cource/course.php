@@ -14,7 +14,7 @@
 <body>
     <div>
         <?php
-           include('../h/navbar.php');
+           include('../Header/navbar.php');
         ?>
     </div>
     <section id="#TopRatedMovies">

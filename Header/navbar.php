@@ -32,11 +32,12 @@
                         <a class="nav-link active" aria-current="page" href="../C/course.php">Courses</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Feedback</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#">Contact</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Login</a>
+                    </li>
+
 
                 </ul>
             </div>
