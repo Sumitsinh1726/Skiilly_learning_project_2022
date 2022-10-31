@@ -1,4 +1,4 @@
-<?php require_once('includes/student_includes.php'); ?>
+<?php require_once('../includes/tutor_includes.php'); ?>
 </div>
 <div class="text-box">
     <h1>I'm Going to Learn <span class="auto-input" style="color:red;"></span> </h1>
@@ -13,4 +13,4 @@
         style="width:400px;height:400px;float: right; margin-right:18%; margin-top: -14%;">
     </lord-icon>
 </div>
-<?php require_once('common/footer/footer.php'); ?>
+<?php require_once('../common/footer/footer.php'); ?>
