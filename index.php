@@ -1,4 +1,5 @@
 <?php require_once('includes/student_includes.php'); ?>
+
 </div>
 <div class="text-box">
     <h1>I'm Going to Learn <span class="auto-input" style="color:red;"></span> </h1>
