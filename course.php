@@ -47,7 +47,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="webdevlopment">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
                     <div class="card-body">
                         <h5 class="card-title">Web Devlopment</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -58,7 +58,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="webdevlopment">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
                     <div class="card-body">
                         <h5 class="card-title">Web Devlopment</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -76,7 +76,7 @@
         <h2>Web Devlopment</h2>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
                     <div class="card-body">
                         <h5 class="card-title">Web Devlopment</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -87,7 +87,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
                     <div class="card-body">
                         <h5 class="card-title">Web Devlopment</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -98,7 +98,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
                     <div class="card-body">
                         <h5 class="card-title">Web Devlopment</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -109,56 +109,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
-                    <div class="card-body">
-                        <h5 class="card-title">Web Devlopment</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn btn-primary">Explore Cource</a>
-                    </div>
-                </div>
-            </div>
-</section>
-<section id="#TopRatedMovies">
-    <div class="container">
-    <h2>Web Devlopment</h2>
-        <div class="row gy-2 my-3">
-            <div class="col-sm-6 col-md-4 col-lg-3">
-                <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
-                    <div class="card-body">
-                        <h5 class="card-title">Web Devlopment</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn btn-primary">Explore Cource</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-                <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
-                    <div class="card-body">
-                        <h5 class="card-title">Web Devlopment</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn btn-primary">Explore Cource</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-                <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
-                    <div class="card-body">
-                        <h5 class="card-title">Web Devlopment</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn btn-primary">Explore Cource</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-                <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
                     <div class="card-body">
                         <h5 class="card-title">Web Devlopment</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -174,7 +125,7 @@
         <div class="row gy-2 my-3">
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
                     <div class="card-body">
                         <h5 class="card-title">Web Devlopment</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -185,7 +136,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
                     <div class="card-body">
                         <h5 class="card-title">Web Devlopment</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -196,7 +147,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
                     <div class="card-body">
                         <h5 class="card-title">Web Devlopment</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -207,7 +158,56 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img class="card-img-top" src="webdevlopment.png" alt="webdevlopment">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
+                    <div class="card-body">
+                        <h5 class="card-title">Web Devlopment</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Explore Cource</a>
+                    </div>
+                </div>
+            </div>
+</section>
+<section id="#TopRatedMovies">
+    <div class="container">
+    <h2>Web Devlopment</h2>
+        <div class="row gy-2 my-3">
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
+                    <div class="card-body">
+                        <h5 class="card-title">Web Devlopment</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Explore Cource</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
+                    <div class="card-body">
+                        <h5 class="card-title">Web Devlopment</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Explore Cource</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
+                    <div class="card-body">
+                        <h5 class="card-title">Web Devlopment</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Explore Cource</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top" src="Cource/webdevlopment.png" alt="Cource/webdevlopment">
                     <div class="card-body">
                         <h5 class="card-title">Web Devlopment</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of

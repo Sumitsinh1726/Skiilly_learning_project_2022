@@ -19,7 +19,7 @@
                     <a class="nav-link active" aria-current="page" href="./course.php">Courses</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Contact</a>
+                    <a class="nav-link active" aria-current="page" href="./tutlogin.php">Become Tutor</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link active" aria-current="page" href="./login.php">Login</a>

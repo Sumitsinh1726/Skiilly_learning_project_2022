@@ -4,7 +4,7 @@
 <div class="text-box">
     <h1>I'm Going to Learn <span class="auto-input" style="color:red;"></span> </h1>
 <p>You can Learn any thing whatyou want</p>
-<a href="Cource/course.php" class="btn">Explore Courses</a>
+<a href="course.php" class="btn">Explore Courses</a>
     <script src="https://cdn.lordicon.com/qjzruarw.js"></script>
     <script src="https://cdn.lordicon.com/qjzruarw.js"></script>
     <script src="https://cdn.lordicon.com/qjzruarw.js"></script>

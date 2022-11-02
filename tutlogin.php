@@ -37,7 +37,7 @@ background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 
 
             <div class="mb-md-5 mt-md-4 pb-5">
 
-              <h2 class="fw-bold mb-2 text-uppercase">Login</h2>
+              <h2 class="fw-bold mb-2 text-uppercase">Tutor Login</h2>
               <p class="text-white-50 mb-5 ">Please enter your login and password!</p>
 
               <div class="form-outline form-white mb-4">
@@ -59,7 +59,7 @@ background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 
             </div>
 
             <div>
-              <p class="mb-0">Don't have an account? <a href="Singup.php" class="text-white-50 fw-bold">Sign Up</a>
+              <p class="mb-0">Become a Tutor  <a href="tutsingup.php" class="text-white-50 fw-bold">Sign Up</a>
               </p>
             </div>
 
@@ -69,6 +69,7 @@ background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 
     </div>
   </div>
 </section>
+
 </body>
 
 </html> 

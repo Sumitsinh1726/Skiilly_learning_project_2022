@@ -13,7 +13,7 @@
     <style>
         .gradient-custom {
 /* fallback for old browsers */ 
-background: white;
+
 
 Chrome 10-25, Safari 5.1-6
 background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
@@ -37,12 +37,24 @@ background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 
 
             <div class="mb-md-5 mt-md-4 pb-5">
 
-              <h2 class="fw-bold mb-2 text-uppercase">Login</h2>
-              <p class="text-white-50 mb-5 ">Please enter your login and password!</p>
+              <h2 class="fw-bold mb-2 text-uppercase">SINGUP</h2>
+              <p class="text-white-50 mb-5 ">CREATE AN ACCOUNT
+</p>
 
+              
+              <div class="form-outline form-white mb-4">
+                <input type="text" id="typeName" class="form-control form-control-lg" />
+                <label class="form-label" for="typeName" text-center>Name</label>
+              </div>
+              
               <div class="form-outline form-white mb-4">
                 <input type="email" id="typeEmailX" class="form-control form-control-lg" />
                 <label class="form-label" for="typeEmailX" text-center>Email</label>
+              </div>
+
+              <div class="form-outline form-white mb-4">
+                <input type="text" id="typePhno" class="form-control form-control-lg" />
+                <label class="form-label" for="typePhno" text-center>Phone No</label>
               </div>
 
               <div class="form-outline form-white mb-4">
@@ -50,16 +62,14 @@ background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 
                 <label class="form-label" for="typePasswordX">Password</label>
               </div>
 
-              <p class="small mb-5 pb-lg-2"><a class="text-white-50" href="#!">Forgot password?</a></p>
-
-              <button class="btn btn-outline-light btn-lg px-5" type="submit">Login</button>
+              <button class="btn btn-outline-light btn-lg px-5" type="submit">REGISTER</button>
 
           
 
             </div>
 
             <div>
-              <p class="mb-0">Don't have an account? <a href="Singup.php" class="text-white-50 fw-bold">Sign Up</a>
+              <p class="mb-0">Allready have Account <a href="login.php" class="text-white-50 fw-bold">Log In</a>
               </p>
             </div>
 
