@@ -54,12 +54,12 @@ background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 
 
               <button class="btn btn-outline-light btn-lg px-5" type="submit">Login</button>
 
-          
+            
 
             </div>
 
             <div>
-              <p class="mb-0">Don't have an account? <a href="Singup.php" class="text-white-50 fw-bold">Sign Up</a>
+              <p class="mb-0">Don't have an account? <a href="register.php" class="text-white-50 fw-bold">Sign Up</a>
               </p>
             </div>
 

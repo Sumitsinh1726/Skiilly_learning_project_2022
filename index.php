@@ -14,4 +14,5 @@
         style="width:400px;height:400px;float: right; margin-right:18%; margin-top: -14%;">
     </lord-icon>
 </div>
+
 <?php require_once('common/footer/footer.php'); ?>
